@@ -1,7 +1,7 @@
-from flask import Flask
+from flask import Flask, jsonify
 
 app = Flask(__name__)
 
 @app.get("/")
 def hello_world():
-    return {result:'succes'}
+    return jsonify({"result":"succes"})
