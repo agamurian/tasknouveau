@@ -1,2 +1,6 @@
 # tasknouveau
-a simple and fast local running task manager written in Vue and Flask
+
+a quik study.
+
+a simple and fast local running task|notes manager written in Different frontends and backends.
+python | js
